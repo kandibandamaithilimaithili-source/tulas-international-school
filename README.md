@@ -39,8 +39,7 @@ npm run dev
 ## Project Structure
 
 TIS-Homepage/
-├── public/
-│   └── school.jpg
+├── public
 ├── src/
 │   ├── App.jsx
 │   ├── App.css
